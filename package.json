@@ -15,5 +15,7 @@
   },
   "engines": {
     "node": ">=18"
-  }
+  },
+  "deploymentId": 1755035470,
+  "enhancedDeployment": true
 }
