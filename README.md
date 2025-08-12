@@ -1,2 +1,17 @@
-# blog-netlify-mcp-deployment-test-1755035449
-AI-generated blog post: Netlify MCP Deployment Test
+# Netlify MCP Deployment Test
+
+This blog post was automatically generated and deployed using AI Blog Generator.
+
+## Content
+- **Title**: Netlify MCP Deployment Test
+- **Generated**: August 12, 2025
+- **Deployment**: Vercel via MCP
+
+## Technology Stack
+- Next.js 14
+- Deployed on Vercel
+- Generated with LangGraph AI workflow
+
+---
+
+*This is an auto-generated blog post. The content was created by AI and deployed automatically to the web.*
